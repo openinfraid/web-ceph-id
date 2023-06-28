@@ -23,7 +23,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 theme_copyright = false
-copyright = "Built with ❤️ by [OpenStack & OpenInfra Indonesia](https://openinfra.id)"
+copyright = "Copyright © [Ceph Indonesia Community](https://ceph.id)"
 
 # Preloader
 [preloader]
@@ -33,8 +33,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [[nav_button]]
 style = "outline"   # available style: solid, outline
-label = "Ceph.io"
-link = "https://ceph.io"
+label = "Events"
+link = "https://ceph.io/en/community/meetups/"
 
 [[nav_button]]
 style = "solid"   # available style: solid, outline
@@ -49,7 +49,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Ceph", "Storage", "SDS", "Data"]
 description = "Massively scalable, open source, distributed storage system."
 author = "Saputro Aryulianto"
 image = "images/favicon.png"      # this image will be used as fallback if a page has no image of its own

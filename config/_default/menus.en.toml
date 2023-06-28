@@ -5,8 +5,8 @@
 # footer menu
 
 [[footer]]
-name = "Contact"
-url = "contact/"
+name = "Ceph.io"
+url = "https://ceph.io"
 weight = 1
 
 [[footer]]
