@@ -1,0 +1,20 @@
+############## English navigation ###############
+# main menu
+[[main]]
+
+# footer menu
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "Code of Conduct"
+url = "https://ceph.io/en/code-of-conduct/"
+weight = 2
+
+[[footer]]
+name = "Source Code"
+url = "https://github.com/openinfraid/web-ceph-id/"
+weight = 3

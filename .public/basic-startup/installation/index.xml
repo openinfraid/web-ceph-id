@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Hugo documentation theme</title>
+    <link>https://demo.gethugothemes.com/godocs/site/style-1/basic-startup/installation/</link>
+    <description>Recent content in Installation on Hugo documentation theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/godocs/site/style-1/basic-startup/installation/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

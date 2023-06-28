@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo documentation theme</title>
+    <link>https://demo.gethugothemes.com/godocs/site/style-1/</link>
+    <description>Recent content on Hugo documentation theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/godocs/site/style-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changelog</title>
+      <link>https://demo.gethugothemes.com/godocs/site/style-1/changelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/godocs/site/style-1/changelog/</guid>
+      <description>February Updates Feb 6, 2019
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt dolore magna aliquyam erat, sed diam voluptua. At vero eos et ustoLorem ipsum dolor sit amet, consetetur.&amp;quot;
+Changed  Better support for using applying additional filters to posts_tax_query for categories for custom WordPress syncs
+  Reporting fine-tuning for speed improvements (up to 60% improvement in latency)
+  Replaced login / registration pre-app screens with a cleaner design</description>
+    </item>
+    
+    <item>
+      <title>Got Any Questions</title>
+      <link>https://demo.gethugothemes.com/godocs/site/style-1/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/godocs/site/style-1/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
