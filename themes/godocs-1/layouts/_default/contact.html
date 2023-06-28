@@ -24,7 +24,7 @@
                 <label for="reason">{{ i18n "contact_reason" }}</label>
                 <select class="form-select rounded-0 px-0" id="inputGroupSelect01">
                   <option selected disabled>Choose Your Reason</option>
-                  <option value="business">Business</option>
+                  <option value="collaboration">Collaboration</option>
                   <option value="issue">Issue</option>
                   <option value="project">Project</option>
                 </select>
@@ -32,6 +32,9 @@
               <div class="form-group col-md-12">
                 <label for="message">{{ i18n "write_message" }}</label>
                 <textarea name="message" id="message" class="form-control text-dark" placeholder="Your Text here ..."></textarea>
+              </div>
+              <div class="col-md-20">
+                <label for="lname">You can ask through this form or send a direct message to <a href="mailto:community@ceph.id" target="_blank">community@ceph.id</a></label>
               </div>
               <div class="col-md-12">
                 <button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
