@@ -8,7 +8,7 @@ banner :
 banner_button :
   enable : "true"
   label : "Ceph Indonesia Community"
-  link : ""
+  link : "https://ceph.id"
 
 # call to action
 call_to_action :
