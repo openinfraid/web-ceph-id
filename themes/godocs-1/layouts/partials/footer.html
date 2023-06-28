@@ -16,7 +16,7 @@
       <div class="col-lg-4">
         <ul class="list-inline social-icons text-lg-end text-center">
           {{ range site.Params.social }}
-          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+          <li class="list-inline-item"><a href="{{ .link | safeURL }}"aria-label="Social Link" tabindex="0"><i class="{{ .icon }}"></i></a></li>
           {{ end }}
         </ul>
       </div>
