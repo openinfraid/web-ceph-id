@@ -50,8 +50,8 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "GetHugoThemes"
+description = "Massively scalable, open source, distributed storage system."
+author = "Saputro Aryulianto"
 image = "images/favicon.png"      # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
