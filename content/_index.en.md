@@ -2,23 +2,23 @@
 # banner
 banner :
   title : "Ceph. The Future of Storage"
-  subtitle : "Massively scalable, open source, distributed storage system. It is comprised of an object store, block store, and a distributed file system. "
+  subtitle : "Ceph (pronounced /ˈsɛf/) is a free and open-source software-defined storage platform that provides object, block, and file storage built on a common distributed cluster foundation."
   image : "images/banner.jpg"
 
 banner_button :
   enable : "true"
   label : "Ceph Indonesia Community"
-  link : "https://t.me/cephid"
+  link : ""
 
 # call to action
 call_to_action :
   enable : true
-  title : "Still Didn't Find Your Answer?"
+  title : "Join Us in Advancing the Ceph Indonesia Community!"
   image : "images/cta-illustration.jpg"
-  content : "Let's discuss on Telegram Group"
+  content : "Let's chat and discuss in our Telegram Group"
 
   button :
     enable : "true"
-    label : "Join Us"
+    label : "Become a Member"
     link : "https://t.me/cephid"
 ---
