@@ -79,7 +79,7 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-primary">{{ .label }}</a>
+        <a href="{{ .link | absLangURL }}" class="btn btn-primary" role="button">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
