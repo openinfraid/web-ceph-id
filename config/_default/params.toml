@@ -34,7 +34,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [[nav_button]]
 style = "outline"   # available style: solid, outline
 label = "Events"
-link = "https://ceph.io/en/community/meetups/"
+link = "events/"
 
 [[nav_button]]
 style = "solid"   # available style: solid, outline
