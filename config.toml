@@ -7,14 +7,14 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#FF0043"
+color_primary = "#DD1313"
 text_color = "#555"
 text_dark = "#222"
 text_light = "#999"
 body_color = "#fff"
 border_color = "#E2E2E2"
 black = "#000"
-white = "#fff"
+white = "#FFFFFF"
 light = "#FBFBFB"
 
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
