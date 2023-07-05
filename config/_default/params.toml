@@ -38,6 +38,11 @@ link = "events/"
 
 [[nav_button]]
 style = "solid"   # available style: solid, outline
+label = "About"
+link = "about/"
+
+[[nav_button]]
+style = "solid"   # available style: solid, outline
 label = "Contact"
 link = "contact/"
 
